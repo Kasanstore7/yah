@@ -5,12 +5,12 @@
 
 <p align="center">
 
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+JAROT-OFFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+Khasan-Dev.01;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
 
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="400" height="400"/>
+<img src="https://telegra.ph/file/141886c73755aaa6501ea.jpg" alt="Img" width="400" height="400"/>
 </p>
  <p align="center">
 <a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -23,7 +23,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make it public
+Project created by <a href="https://github.com/Kasanstore7">Khasan dev.01</a> to make it public
     <br>
        | © |
         Reserved |
